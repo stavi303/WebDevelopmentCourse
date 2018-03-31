@@ -1,0 +1,48 @@
+body {
+    direction: rtl;
+    background-image: url(../images/HIT5.png);
+    background-size: 960px;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+#container {
+    width: 960px;
+    margin: 0 auto;
+    
+}
+ul{
+    margin:100px 160px 0px 0px;
+}
+li {
+    display: inline-block;
+    background-color: gold;
+    padding: 8px;
+    border: 1px solid cadetblue;
+    margin: 4px;
+    position: center;
+}
+h2{
+    margin:80px 320px 0px 0px;
+}
+#br{
+    margin-right: 100px;
+}
+form {
+    margin: 20px 150px 0px 0px;
+}
+
+label {
+    display: inline-block;
+}
+#SendForm{
+    display:block;
+}
+#g{
+    margin:0px 700px 0px 0px;
+}
+a{
+    margin:0px 400px;
+}
+
+
+
